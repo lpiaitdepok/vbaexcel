@@ -1,4 +1,5 @@
 Sub Delete_Rows(Data_range As Range, Text As String)
+' www.automateexcel.com
 ' case insensitive
 Dim Row_Counter As Integer
 For Row_Counter = Data_range.Rows.Count To 1 Step -1
