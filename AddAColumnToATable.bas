@@ -1,5 +1,5 @@
-// Add a Column to a Table
-// www.bluepecantraining.com
+'Add a Column to a Table
+'www.bluepecantraining.com
 
 Dim ws As Worksheet
 Set ws = ActiveSheet
