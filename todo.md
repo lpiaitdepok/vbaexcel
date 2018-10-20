@@ -9,4 +9,4 @@ header
 - [ ] traverse to column
 - [ ] traverse to row
 - [ ] merge
-- [] wrap text
+- [ ] wrap text
