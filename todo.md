@@ -3,9 +3,10 @@
 
 header
 - [ ] title
+- [ ] date / time
 
 # 2
 - [ ] traverse to column
 - [ ] traverse to row
 - [ ] merge
--[]
+- [] wrap text
