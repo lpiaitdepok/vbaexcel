@@ -10,3 +10,5 @@ header
 - [ ] traverse to row
 - [ ] merge
 - [ ] wrap text
+- [ ] add row
+- [ ] add column
