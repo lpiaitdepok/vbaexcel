@@ -2,7 +2,7 @@
 Dim ws As Worksheet
 Set ws = ActiveSheet
 Dim tbl As ListObject
-Set tbl =ws.ListObjects("Sales_Table")
+Set tbl = ws.ListObjects("Sales_Table")
 Dim newrow As ListRow
 Set newrow = tbl.ListRows.Add
 With newrow
