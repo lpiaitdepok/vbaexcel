@@ -19,5 +19,6 @@ https://support.office.com/
   For i = 1 To Columns.Count
 
   Next i
-  
-  ' **Note**: worksheets can have up to 256 columns in Excel 2003 and up to 16,384 columns wide in Excel 2007 or later. No matter what version you are using, the code line above loops through all Columns (downloadable Excel file is in Excel 97-2003 format). Data in cells outside of this row and column limit is lost in Excel 97-2003.
+
+
+' **Note**: worksheets can have up to 256 columns in Excel 2003 and up to 16,384 columns wide in Excel 2007 or later. No matter what version you are using, the code line above loops through all Columns (downloadable Excel file is in Excel 97-2003 format). Data in cells outside of this row and column limit is lost in Excel 97-2003.
