@@ -1,5 +1,3 @@
-'www.excel-easy.com
-
 'Excel VBA Range Object
 Range("B3").Value = 2
 
@@ -66,3 +64,6 @@ MsgBox example.Count
 
 MsgBox example.Rows.Count
 MsgBox example.Columns.Count
+
+'http://www.excel-easy.com/
+'https://excelmacromastery.com/
