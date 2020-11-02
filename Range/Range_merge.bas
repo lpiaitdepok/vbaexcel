@@ -1,4 +1,6 @@
 'powerspreadsheets.com
+'Christopher Lee. Mahir Otodidak VBA Macro Excel. Elex Media Komputindo
+
 Sub mergeCells()
 'Worksheet.Range("FirstCell:LastCell").Merge
 
