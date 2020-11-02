@@ -1,4 +1,4 @@
-'https://www.educba.com/
+'https://analysistabs.com/
 'https://docs.microsoft.com/en-us/
 
 '8 main base colors. Which are Red, Black, Green, Yellow, Blue, Magenta, Cyan and White
